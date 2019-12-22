@@ -1,2 +1,0 @@
-* Spec header
-  SCHEDULED: <2019-08-01 Thu> DEADLINE: <2019-08-04 Sun>

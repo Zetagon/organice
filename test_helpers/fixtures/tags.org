@@ -1,1 +1,0 @@
-* Spec header                                                      :spec_tag:

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebd1b3ca.chunk.css",
+    "main.js": "/static/js/main.b25501c7.chunk.js",
+    "main.js.map": "/static/js/main.b25501c7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c761793.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c761793.js.map",
+    "static/js/2.bc34674e.chunk.js": "/static/js/2.bc34674e.chunk.js",
+    "static/js/2.bc34674e.chunk.js.map": "/static/js/2.bc34674e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.030400df3fd92d1b4816d80bb81de0fd.js": "/precache-manifest.030400df3fd92d1b4816d80bb81de0fd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ebd1b3ca.chunk.css.map": "/static/css/main.ebd1b3ca.chunk.css.map",
+    "static/js/2.bc34674e.chunk.js.LICENSE": "/static/js/2.bc34674e.chunk.js.LICENSE",
+    "static/media/dropbox.svg": "/static/media/dropbox.b53eaec4.svg",
+    "static/media/google_drive.png": "/static/media/google_drive.f5fd3e02.png",
+    "static/media/organice.svg": "/static/media/organice.11553f69.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c761793.js",
+    "static/js/2.bc34674e.chunk.js",
+    "static/css/main.ebd1b3ca.chunk.css",
+    "static/js/main.b25501c7.chunk.js"
+  ]
+}

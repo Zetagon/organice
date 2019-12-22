@@ -1,6 +1,0 @@
-* Main header (required for parser atm)
-
-* Second header
-
-- Some item
-- Another item
